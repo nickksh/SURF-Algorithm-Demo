@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\admin\documents\telescope\surfdetection\surfdetection\main.cpp(64): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\admin\documents\telescope\surfdetection\surfdetection\main.cpp(131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\telescope\surfdetection\surfdetection\main.cpp(132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\telescope\surfdetection\surfdetection\main.cpp(133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\telescope\surfdetection\surfdetection\main.cpp(134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SURFDETECTION.vcxproj -> C:\Users\Admin\Documents\telescope\SURFDETECTION\x64\Debug\SURFDETECTION.exe
+  SURFDETECTION.vcxproj -> C:\Users\Admin\Documents\telescope\SURFDETECTION\x64\Debug\SURFDETECTION.pdb (Partial PDB)
